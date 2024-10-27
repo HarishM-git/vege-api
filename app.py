@@ -56,7 +56,7 @@ static_images = {
     "Ridge Gourd": "https://static.toiimg.com/photo/79265520.cms",
     "Shallot (Pearl Onion)": "https://www.innit.com/public/recipes/images/1002581--146856609-en-US-0_s500.jpg",
     "Snake Gourd": "https://cdn.britannica.com/45/190845-050-1EAF48FA/snake-gourds.jpg",
-    "Sorrel": "https://cdn.britannica.com/27/118327-050-14389167/Garden-sorrel.jpg",
+    "Sorrel": "https://exat8rt6fi5.exactdn.com/wp-content/uploads/2022/05/red-sorrel-01-600x600.jpg?strip=all&lossy=1&ssl=1",
     "Spinach": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2019/05/spinach-1296x728-header.jpg?w=1155&h=1528",
     "Sweet Potato": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Ipomoea_batatas_006.JPG/800px-Ipomoea_batatas_006.JPG",
     "Tomato": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/1200px-Tomato_je.jpg"
