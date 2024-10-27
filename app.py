@@ -24,7 +24,7 @@ static_images = {
     "Cauliflower": "https://dishingouthealth.com/wp-content/uploads/2022/12/GarlicParmesanCauliflower_Styled1.jpg",
     "Cluster beans": "https://urbanthottam.com/wp-content/uploads/2020/11/Cluster-Beans_Ravichandra.jpg",
     "Coconut": "https://domf5oio6qrcr.cloudfront.net/medialibrary/13842/3f39961d-d850-4885-8ddc-d85186d1113a.jpg",
-    "Colocasia": "https://www.gardenia.net/wp-content/uploads/2023/05/Colocasia-esculenta-Taro-796x533.webp",
+    "Colocasia": "https://bhoomigardencentre.com/wp-content/uploads/2024/08/Colocasia-Taro-main.jpg",
     "Colocasia Leaves": "https://cookilicious.com/wp-content/uploads/2021/08/pathrode-patra-colocasia-pinwheels-4.jpg",
     "Coriander Leaves": "https://cookbook.pfeiffer.net.au/files/corianderPlant.jpg",
     "Corn": "https://cdn.britannica.com/36/167236-050-BF90337E/Ears-corn.jpg",
