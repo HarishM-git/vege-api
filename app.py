@@ -31,7 +31,7 @@ static_images = {
     "Cucumber": "https://wh.farm/wp-content/uploads/2022/09/SlicerCucumber-Featured.jpg",
     "Curry Leaves": "https://assets.bonappetit.com/photos/612fdd52349942e3b2e2863c/4:3/w_1417,h_1063,c_limit/Curry%20Leaves.jpg",
     "Dill Leaves": "https://static.toiimg.com/photo/84488358.cms",
-    "Drumsticks": "https://vicfirth.com/cdn/shop/files/2000-X-2000-JPG-AH5A_Vic_Firth_American_Heritage_5A-1.jpg?v=1701882067&width=768",
+    "Drumsticks": "https://opt.toiimg.com/recuperator/img/toi/m-73701315/73701315.jpg&width=500&resizemode=4",
     "Elephant Yam": "https://i.ytimg.com/vi/8snZfekKvig/maxresdefault.jpg",
     "Fenugreek Leaves": "https://images.squarespace-cdn.com/content/v1/5cef7b136434550001a53d10/98da7dcd-df30-448b-aa23-9d656700321e/Methi+Salad-6.jpg",
     "French Beans": "https://www.allrecipes.com/thmb/QnE2pw82Rr8B4xNIIodxOB7VzWA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/238665-grilled-green-beans-mfs-4-f5ab1488b73d4798a7543d5353d3bf84.jpg",
