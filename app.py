@@ -7,7 +7,7 @@ app = Flask(__name__)
 # Static image URLs mapped to vegetable names
 static_images = {
     "Amaranth Leaves": "https://www.adaptiveseeds.com/wp-content/uploads/2014/12/amaranth-miriah-leaf-3-7.jpg",
-    "Amla": "https://lukecoutinho.com/blog/wp-content/uploads/2021/12/The-Health-Benefits-of-Amla.jpg",
+    "Amla": "https://post.healthline.com/wp-content/uploads/2020/10/indian-gooseberry-1296x728-header.jpg",
     "Ash gourd": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/04/ash-gourd-1296x728-header.jpg?w=1155&h=1528",
     "Baby Corn": "https://thesimplesprinkle.com/wp-content/uploads/2022/09/roasted-baby-corn-3.jpg",
     "Banana Flower": "https://www.thespruceeats.com/thmb/P9NIPKyl8reVr4xvUSXJ96K6UYg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Banana-Flower-5794d0285f9b58173b9cf879.jpg",
