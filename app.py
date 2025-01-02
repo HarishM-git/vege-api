@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 
 app = Flask(__name__)
 
-# Static image URLs mapped to vegetable names
 static_images = {
     "Amaranth Leaves": "https://www.adaptiveseeds.com/wp-content/uploads/2014/12/amaranth-miriah-leaf-3-7.jpg",
     "Amla": "https://post.healthline.com/wp-content/uploads/2020/10/indian-gooseberry-1296x728-header.jpg",
@@ -88,17 +87,15 @@ def home():
     results = soup.find_all('tr', class_="todayVegetableTableRows")
     got_data = get_data(results)
 
-    # Filter and organize the data
     filtered_data = [item for index, item in enumerate(got_data) if (index % 6) != 0]
     name_extracted_data = [item for item in filtered_data if contains_no_numeric(item)]
     fully_filtered_data = [item for index, item in enumerate(filtered_data) if (index % 5) != 0]
     grouped_data = [fully_filtered_data[i:i + 4] for i in range(0, len(fully_filtered_data), 4)]
 
-    # Create key-value pairs and append static image URLs
     key_value_pairs = {}
     for name in name_extracted_data:
         prices = grouped_data[name_extracted_data.index(name)]
-        image_url = static_images.get(name, None)  # Get the image URL or None if not found
+        image_url = static_images.get(name, None) 
         key_value_pairs[name] = prices + [image_url]
 
     return jsonify(key_value_pairs)
