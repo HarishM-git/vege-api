@@ -66,7 +66,6 @@ def get_data(results):
     data = []
     for row in results:
         data.extend([td.get_text(strip=True) for td in row.find_all('td')])
-        break
     return data
 
 def contains_no_numeric(s):
